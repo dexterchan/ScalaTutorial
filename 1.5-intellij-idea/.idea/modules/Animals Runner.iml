@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="animalsRunner [file:/Users/dexter/sandbox/scala/ScalaTutorial/1.5-intellij-idea/]" external.linked.project.path="$MODULE_DIR$/../../animals-runner" external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
+    <output url="file://$MODULE_DIR$/../../animals-runner/target/scala-2.13/classes" />
+    <output-test url="file://$MODULE_DIR$/../../animals-runner/target/scala-2.13/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../animals-runner">
+      <sourceFolder url="file://$MODULE_DIR$/../../animals-runner/src/main/scala" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../animals-runner/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Animals Library" exported="" />
+    <orderEntry type="library" name="sbt: com.thoughtworks.paranamer:paranamer:2.8:jar" level="project" />
+    <orderEntry type="library" name="sbt: commons-codec:commons-codec:1.11:jar" level="project" />
+    <orderEntry type="library" name="sbt: javax.activation:activation:1.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: javax.mail:mail:1.4.7:jar" level="project" />
+    <orderEntry type="library" name="sbt: jline:jline:2.14.6:jar" level="project" />
+    <orderEntry type="library" name="sbt: joda-time:joda-time:2.10:jar" level="project" />
+    <orderEntry type="library" name="sbt: net.liftweb:lift-actor_2.13:3.4.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: net.liftweb:lift-common_2.13:3.4.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: net.liftweb:lift-json_2.13:3.4.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: net.liftweb:lift-markdown_2.13:3.4.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: net.liftweb:lift-util_2.13:3.4.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: nu.validator:htmlparser:1.4.12:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.fusesource.jansi:jansi:1.12:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.joda:joda-convert:2.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.mindrot:jbcrypt:0.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-compiler:2.13.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.13.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-reflect:2.13.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scalap:2.13.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang.modules:scala-parser-combinators_2.13:1.1.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang.modules:scala-xml_2.13:1.2.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.slf4j:slf4j-api:1.7.25:jar" level="project" />
+    <orderEntry type="library" name="sbt: xerces:xercesImpl:2.11.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: xml-apis:xml-apis:1.4.01:jar" level="project" />
+  </component>
+</module>
