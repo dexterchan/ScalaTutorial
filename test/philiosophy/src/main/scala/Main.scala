@@ -206,6 +206,24 @@ object Main extends App {
 
     val pp:Namable = Person("pigpig", 10)
     println(pp)
+    val pet:Pet = Pet("cat", "wanchai")
+    println(pet)
+    println(pet.latestPlace)
+    pet.moveTo("central")
+    println(pet)
+    println(pet.latestPlace)
+    println(s"Pet is Placeable:${pet.isInstanceOf[Placeable] }")
+
+    var peopleSingleton = PeopleSingleton
+    println (peopleSingleton.allPeople)
+    peopleSingleton.addPerson(antonio)
+    println(peopleSingleton.allPeople)
+
+    var antonio41=Person.withAge(antonio, 41)
+    println(s"${antonio} -> ${antonio41}")
+    var baby = Person.apply("baby")
+    println(s"${baby}")
+
   }
 }
 
